@@ -28,4 +28,4 @@ Para rodar este projeto localmente, você precisará de:
 
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-- Editor de código (opcional, mas recomendado: [Visual Studio Code](https://code.visualstudio.com/))
+- Editor de código (opcional, mais recomendado: [Visual Studio Code](https://code.visualstudio.com/))
